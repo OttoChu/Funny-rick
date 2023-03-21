@@ -1,2 +1,3 @@
 # Rick
- yes
+ yes Rick is funny
+ 
